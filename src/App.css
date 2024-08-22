@@ -7,10 +7,22 @@
   pointer-events: none;
 }
 
+<<<<<<< HEAD
 
 
 .App-header {
   background-color: #282c34;
+=======
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+>>>>>>> 4712456238051e6371c4db9c0bd0bb6492621cde
   display: flex;
   flex-direction: column;
   align-items: center;
