@@ -11,8 +11,8 @@ const Navbar = () => {
               Meet, Melanie Carver. Resident Badass.
             </p>
             <div>
-                <Link to='/'>Home</Link>
-                <Link to='/Experience'>Experience</Link>
+                <Link to='/Melanie-Resume-Website'>Home</Link>
+                <Link to='/Melanie-Resume-Website/Experience'>Experience</Link>
             </div>
 
           </header>
